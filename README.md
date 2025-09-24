@@ -34,8 +34,8 @@ A RESTful API for managing and retrieving quotes, built with Go and Gin framewor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Fonate-Michael/quotes-api.git
-   cd quotes-api
+   git clone https://github.com/Fonate-Michael/QuotesAPI.git
+   cd QuotesAPI
    ```
 
 2. Set up environment variables:
